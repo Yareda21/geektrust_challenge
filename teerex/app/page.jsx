@@ -28,10 +28,10 @@ export default function Home() {
 
   return (
     <section>
-      {/* {list1 &&
+      {list1 &&
         list1.map((ele) => {
           return <div key={ele.id}>{ele.color}</div>;
-        })} */}
+        })}
     </section>
   );
 }
